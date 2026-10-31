@@ -1,0 +1,92 @@
+{
+  "hooks": {
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ],
+    "PermissionRequest": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ],
+    "PostToolUse": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ],
+    "PostToolUseFailure": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ],
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "command": "\"C:/Users/Abtinmall.com/AppData/Local/GitKrakenCLI/gk-alpha.exe\" ai hook run --host claude-code",
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ]
+  }
+}
